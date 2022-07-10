@@ -14,6 +14,5 @@
 
   ## Media
   ### Deployed App: [https://personal-budget-tracker2112.herokuapp.com](https://personal-budget-tracker2112.herokuapp.com/)
+  ### Github Repo: [https://github.com/Crimsondrac1/Personal-Budget-Tracker](https://github.com/Crimsondrac1/Personal-Budget-Tracker)
   #### Screenshot: <BR />![Screenshot of webpage](./screenshot_01.jpg)
-  
-  
