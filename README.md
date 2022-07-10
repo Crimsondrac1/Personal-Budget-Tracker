@@ -9,7 +9,6 @@
   ### [Installation](#installation)
   ### [Screenshots/Media](#media)
   ---
-
   ## Installation
   #### Requires MongoDB. Install with "npm i" and run with 'npm start".
 
