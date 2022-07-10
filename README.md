@@ -1,4 +1,3 @@
-
   # Personal Budget Tracker 
 
   ### A project by: Doug Erickson 
@@ -15,4 +14,3 @@
 
   ## Media
   #### ![Screenshot of webpage](./screenshot_01.jpg)
-  
